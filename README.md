@@ -22,11 +22,11 @@ Based in London, UK, I specialize in building robust, self-hosted infrastructure
 
 ### ✍️ Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [Somewhere Between Excited and Terrified: A DevOps Engineer on AI Anxiety](https://www.hamzahkhan.com/somewhere-between-excited-and-terrified/)
 - [Grafana Alloy in My Homelab: Why I Run Three Separate Instances](https://www.hamzahkhan.com/grafana-alloy-homelab/)
 - [Parenting Like a DevOps Engineer: Managing the Chaos of Family Life](https://www.hamzahkhan.com/parenting-like-a-devops-engineer-managing-the-chaos-of-family-life/)
 - [Reviving My Broken Ender 3](https://www.hamzahkhan.com/reviving-my-broken-ender-3/)
 - [Starting My 3D Printing Journey in 2025 with the Ender 3: Klipper, Tinkering, and Endless Upgrades](https://www.hamzahkhan.com/starting-my-3d-printing-journey-in-2025-with-the-ender-3/)
-- [How to Redirect Hardcoded DNS with VyOS &lpar;Perfect for Pi-hole or Blocky Setups&rpar;](https://www.hamzahkhan.com/captive-dns-with-vyos/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
