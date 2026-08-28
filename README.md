@@ -22,11 +22,11 @@ Based in London, UK, I specialize in building robust, self-hosted infrastructure
 
 ### ✍️ Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [A More Advanced Athan Automation in Home Assistant](https://www.hamzahkhan.com/advanced-athan-automation-home-assistant/)
 - [Contact M. Hamzah Khan](https://www.hamzahkhan.com/contact/)
 - [Somewhere Between Excited and Terrified: A DevOps Engineer on AI Anxiety](https://www.hamzahkhan.com/somewhere-between-excited-and-terrified/)
 - [Grafana Alloy in My Homelab: Why I Run Three Separate Instances](https://www.hamzahkhan.com/grafana-alloy-homelab/)
 - [Parenting Like a DevOps Engineer: Managing the Chaos of Family Life](https://www.hamzahkhan.com/parenting-like-a-devops-engineer-managing-the-chaos-of-family-life/)
-- [Reviving My Broken Ender 3](https://www.hamzahkhan.com/reviving-my-broken-ender-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
