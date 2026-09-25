@@ -22,11 +22,11 @@ Based in London, UK, I specialize in building robust, self-hosted infrastructure
 
 ### ✍️ Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [What do I tell my kids?](https://www.hamzahkhan.com/what-do-i-tell-my-kids/)
 - [VyOS Firewall Rules: A Real Zone-Based Config, Explained](https://www.hamzahkhan.com/vyos-firewall-rules/)
 - [A More Advanced Athan Automation in Home Assistant](https://www.hamzahkhan.com/advanced-athan-automation-home-assistant/)
 - [Contact M. Hamzah Khan](https://www.hamzahkhan.com/contact/)
 - [Somewhere Between Excited and Terrified: A DevOps Engineer on AI Anxiety](https://www.hamzahkhan.com/somewhere-between-excited-and-terrified/)
-- [Grafana Alloy in My Homelab: Why I Run Three Separate Instances](https://www.hamzahkhan.com/grafana-alloy-homelab/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
