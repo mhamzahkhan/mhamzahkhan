@@ -22,11 +22,11 @@ Based in London, UK, I specialize in building robust, self-hosted infrastructure
 
 ### ✍️ Latest from the Blog
 <!-- BLOG-POST-LIST:START -->
+- [ipmi-connect: A Java-free remote console for Dell and Supermicro servers](https://www.hamzahkhan.com/posts/2026/2026-10-18-ipmi-connect-java-free-bmc-console/)
 - [Fixing Kubespray CRI-O read-only file system errors on Fedora CoreOS](https://www.hamzahkhan.com/posts/2026/2026-10-01-kubespray-cri-o-fedora-coreos-readonly-fix/)
 - [What do I tell my kids?](https://www.hamzahkhan.com/what-do-i-tell-my-kids/)
 - [VyOS Firewall Rules: A Real Zone-Based Config, Explained](https://www.hamzahkhan.com/vyos-firewall-rules/)
 - [A More Advanced Athan Automation in Home Assistant](https://www.hamzahkhan.com/advanced-athan-automation-home-assistant/)
-- [Contact M. Hamzah Khan](https://www.hamzahkhan.com/contact/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
