@@ -1,6 +1,6 @@
 # Hi there, I'm Hamzah Khan 👋
 
-**Founder at [IntahnetSolutions](https://intahnet.co.uk/) | Senior DevOps Engineer | Kubernetes Enthusiast**
+**Founder at [Intahnet Solutions](https://www.intahnetsolutions.co.uk/) | Senior DevOps Engineer | Kubernetes Enthusiast**
 
 Based in London, UK, I specialize in building robust, self-hosted infrastructure and cloud-native platforms. My focus is on automation, high availability, and deep observability.
 
